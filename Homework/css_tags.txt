@@ -1,0 +1,14 @@
+• background-size: 100%
+	This resizes the background image to ratio so no image distortion (although it does 	upscale small images). 
+
+• background-attachment: fixed;
+	This will keep the background image locked.  When scrolling on the page, the 		background will not move.
+
+• classes
+	This allow the user to modify all attributes under that class in the css styles file.
+
+• text-shadow
+	Place a shadow of any color / size behind text
+
+• box-shadow
+	Add a box shadow to a <div> element
